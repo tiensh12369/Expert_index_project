@@ -194,3 +194,6 @@ pyrightconfig.json
 ## Custom
 
 Expert_Index/gsc_data
+# 261121: 데이터는 D:\dataset\NetDB_전문가검색에 두고 코드만 올린다
+*.csv
+*.xlsx
